@@ -1,0 +1,16 @@
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.csproj.AssemblyReference.cache
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.AssemblyInfoInputs.cache
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.AssemblyInfo.cs
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.csproj.CoreCompileInputs.cache
+C:\dev\StopWatchForMe\bin\Debug\net5.0\StopWatchForMe.exe
+C:\dev\StopWatchForMe\bin\Debug\net5.0\StopWatchForMe.deps.json
+C:\dev\StopWatchForMe\bin\Debug\net5.0\StopWatchForMe.runtimeconfig.json
+C:\dev\StopWatchForMe\bin\Debug\net5.0\StopWatchForMe.runtimeconfig.dev.json
+C:\dev\StopWatchForMe\bin\Debug\net5.0\StopWatchForMe.dll
+C:\dev\StopWatchForMe\bin\Debug\net5.0\ref\StopWatchForMe.dll
+C:\dev\StopWatchForMe\bin\Debug\net5.0\StopWatchForMe.pdb
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.dll
+C:\dev\StopWatchForMe\obj\Debug\net5.0\ref\StopWatchForMe.dll
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.pdb
+C:\dev\StopWatchForMe\obj\Debug\net5.0\StopWatchForMe.genruntimeconfig.cache
